@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raja Moussa</h1>
-<h3 align="center">A highly motivated developer looking to make a difference.</h3>
+<h3 align="center">A highly motivated developer looking to make a difference one step at a time.</h3>
+
+- 🔭 I’m currently working on [NFL Fantasy Draft](https://github.com/rmoussa09/NFL-Fantasy-Draft.git)
+
+- 👨‍💻 All of my projects are available at [https://github.com/rmoussa09?tab=repositories](https://github.com/rmoussa09?tab=repositories)
 
 - 📫 How to reach me **rajamoussa09@outlook.com**
 
